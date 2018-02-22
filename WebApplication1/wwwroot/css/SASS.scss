@@ -1,0 +1,15 @@
+﻿$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+
+.myDiv {
+    font: 100% $font-stack;
+    color: $primary-color;
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        color:#c00;
+        background-color:#333;
+    }
+}
